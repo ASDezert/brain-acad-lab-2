@@ -1,10 +1,10 @@
 package ua.zp.brainacad;
 
-public class ItemOne {
+public class ItemThree {
     public static void main(String[] args) {
-        System.out.println("This is first app in brainacademy");
+        System.out.println("Hello\nW\to\tr\tl\td\t");
     }
 }
 
-/** Итем 1
+/** Итем 3
  тут будет коммент*/
